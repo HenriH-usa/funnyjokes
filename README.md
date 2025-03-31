@@ -3,7 +3,7 @@ A lighthearted collection of categorized jokes—Dark Humor, Dad Jokes, and Knoc
 
      Funny Jokes <br>
 
-Here we have a variety of different hilarious jokes.
+Here we have a variety of different hilarious jokes. <br>
 
 Dark Humor:
 
